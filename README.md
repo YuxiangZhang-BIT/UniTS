@@ -10,7 +10,7 @@ UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
 
 <!-- # ⚡️UniTS⚡️ -->
 
-[[Paper 📰]](https://arxiv.org/abs/2410.05954) [[Project Page ✨]](https://yuxiangzhang-bit.github.io/UniTS-website/) 
+[[Paper 📰]](https://arxiv.org/) [[Project Page ✨]](https://yuxiangzhang-bit.github.io/UniTS-website/) 
 <!-- [[miniFLUX Model 🚀]](https://huggingface.co/rain1011/pyramid-flow-miniflux) [[SD3 Model ⚡️]](https://huggingface.co/rain1011/pyramid-flow-sd3) [[demo 🤗](https://huggingface.co/spaces/Pyramid-Flow/pyramid-flow)] -->
 
 </div>
