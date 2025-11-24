@@ -1,6 +1,10 @@
-<h2 align="center"><a href="https://arxiv.org/pdf/2501.13106" style="color:#9C276A">
-UniTS: Unified Time Series Generative Model for Earth Observation</a></h2>
-<h4 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us.</h2>
+<!-- <p align="center">
+    <img src="/home/yxzhang7/code/UniTS/assets/logo1.png?raw=true" width="150" style="margin-bottom: 0.2;"/>
+<p> -->
+
+<h1 align="center"><a href="https://arxiv.org/pdf/2501.13106" style="color:#9C276A">
+UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
+<h3 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us.</h3>
 
 <div align="center">
 
@@ -106,7 +110,7 @@ pip install -r requirements.txt
 pip install flash-attn --no-build-isolation
 ``` -->
 
-## :earth_americas: Model Zoo (coming soon)
+## 📦 Model Zoo (coming soon)
 
 | Model                | Task (Dataset)  | Checkpoint Link                                                      |
 | -------------------- | ------------ | ------------------------------------------------------------ |
@@ -204,10 +208,10 @@ GreenEarthNet/
     └── ...
 ```
 
-## 🗝️ Training
+## 🔥 Training
 Coming soon...
 
-## ✅ Evaluation
+## 📈 Evaluation
 Coming soon...
 
 
