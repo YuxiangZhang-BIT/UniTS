@@ -2,7 +2,7 @@
     <img src="/home/yxzhang7/code/UniTS/assets/logo1.png?raw=true" width="150" style="margin-bottom: 0.2;"/>
 <p> -->
 
-<h1 align="center"><a href="https://arxiv.org/pdf/2501.13106" style="color:#9C276A">
+<h1 align="center"><a href="https://arxiv.org/" style="color:#9C276A">
 UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
 <h4 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us.</h4>
 
