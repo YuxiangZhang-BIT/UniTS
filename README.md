@@ -4,7 +4,7 @@
 
 <h1 align="center"><a href="https://arxiv.org/pdf/2501.13106" style="color:#9C276A">
 UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
-<h3 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us.</h3>
+<h4 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us.</h4>
 
 <div align="center">
 
@@ -33,12 +33,7 @@ UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
 
 
 ## 📰 News
-
-<!-- * **[2025.02.07]**  🔥🔥 Release our re-captioned high-quality image-text dataset [VL3-Syn7M](https://huggingface.co/datasets/DAMO-NLP-SG/VL3-Syn7M).
-* **[2025.01.26]**  🔥🔥 As of Jan 26, VideoLLaMA3-7B is the best 7B-sized model on [LVBench](https://huggingface.co/spaces/THUDM/LVBench) leaderboard.
-* **[2025.01.24]**  🔥🔥 As of Jan 24, VideoLLaMA3-7B is the best 7B-sized model on [VideoMME](https://video-mme.github.io/home_page.html) leaderboard.
-* **[2025.01.21]**  Release models and inference code of VideoLLaMA 3. -->
-* **[2025.01.22]**  👋👋 Release paper of UniTS. If you have works closely related to UniTS not mentioned in the paper, feel free to let us know.
+* **[2025.11.30]**  👋👋 Release paper of UniTS. If you have works closely related to UniTS not mentioned in the paper, feel free to let us know.
 
 ## 🌟 Introduction
 UniTS is a general generative framework applicable to various time series tasks, including ***time series reconstruction***, ***time series cloud removal***, ***time series semantic change detection***, and ***time series forecasting***. This method adopts a generation paradigm based on flow matching, and its core architecture consists of a Diffusion Transformer integrated with spatio-temporal blocks.
