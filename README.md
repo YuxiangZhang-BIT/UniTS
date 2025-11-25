@@ -1,6 +1,6 @@
-<!-- <p align="center">
-    <img src="/home/yxzhang7/code/UniTS/assets/logo1.png?raw=true" width="150" style="margin-bottom: 0.2;"/>
-<p> -->
+<p align="center">
+    <img src="/home/yxzhang7/code/UniTS/assets/earth.gif?raw=true" width="150" style="margin-bottom: 0.2;"/>
+<p>
 
 <h1 align="center"><a href="https://arxiv.org/" style="color:#9C276A">
 UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
