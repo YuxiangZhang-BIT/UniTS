@@ -3,7 +3,7 @@
 <p>
 
 <h1 align="center"><a href="https://arxiv.org/" style="color:#9C276A">
-UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
+UniTS: Unified Time Series Generative Model for Remote Sensingn</a></h1>
 <h4 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us.</h4>
 
 <div align="center">
