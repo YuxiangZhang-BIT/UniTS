@@ -33,7 +33,7 @@ UniTS: Unified Time Series Generative Model for Earth Observation</a></h1>
 
 
 ## 📰 News
-* **[2025.11.30]**  👋👋 Release paper of UniTS. If you have works closely related to UniTS not mentioned in the paper, feel free to let us know.
+* **[2025.12.08]**  👋👋 Release paper of UniTS. If you have works closely related to UniTS not mentioned in the paper, feel free to let us know.
 
 ## 🌟 Introduction
 UniTS is a general generative framework applicable to various time series tasks, including ***time series reconstruction***, ***time series cloud removal***, ***time series semantic change detection***, and ***time series forecasting***. This method adopts a generation paradigm based on flow matching, and its core architecture consists of a Diffusion Transformer integrated with spatio-temporal blocks.
