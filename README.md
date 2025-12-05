@@ -2,7 +2,7 @@
     <img src="/home/yxzhang7/code/UniTS/assets/earth.gif?raw=true" width="150" style="margin-bottom: 0.2;"/>
 <p>
 
-<h1 align="center"><a href="https://arxiv.org/" style="color:#9C276A">
+<h1 align="center"><a href="http://arxiv.org/abs/2512.04461" style="color:#9C276A">
 UniTS: Unified Time Series Generative Model for Remote Sensing</a></h1>
 <h4 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us.</h4>
 
@@ -10,7 +10,7 @@ UniTS: Unified Time Series Generative Model for Remote Sensing</a></h1>
 
 <!-- # ⚡️UniTS⚡️ -->
 
-[[Paper 📰]](https://arxiv.org/) [[Project Page ✨]](https://yuxiangzhang-bit.github.io/UniTS-website/) 
+[[Paper 📰]](http://arxiv.org/abs/2512.04461) [[Project Page ✨]](https://yuxiangzhang-bit.github.io/UniTS-website/) [[Datasets 🤗]](https://huggingface.co/datasets/YuxiangZhang-BIT/UniTS-Datasets-ckpt) 
 <!-- [[miniFLUX Model 🚀]](https://huggingface.co/rain1011/pyramid-flow-miniflux) [[SD3 Model ⚡️]](https://huggingface.co/rain1011/pyramid-flow-sd3) [[demo 🤗](https://huggingface.co/spaces/Pyramid-Flow/pyramid-flow)] -->
 
 </div>
@@ -33,7 +33,7 @@ UniTS: Unified Time Series Generative Model for Remote Sensing</a></h1>
 
 
 ## 📰 News
-* **[2025.12.08]**  👋👋 Release paper of UniTS. If you have works closely related to UniTS not mentioned in the paper, feel free to let us know.
+* **[2025.12.05]**  👋👋 Release paper of UniTS. If you have works closely related to UniTS not mentioned in the paper, feel free to let us know.
 
 ## 🌟 Introduction
 UniTS is a general generative framework applicable to various time series tasks, including ***time series reconstruction***, ***time series cloud removal***, ***time series semantic change detection***, and ***time series forecasting***. This method adopts a generation paradigm based on flow matching, and its core architecture consists of a Diffusion Transformer integrated with spatio-temporal blocks.
