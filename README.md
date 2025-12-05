@@ -215,12 +215,12 @@ Coming soon...
 If you find UniTS useful for your research, please cite using this BibTeX:
 
 ```bibtex
-@article{,
-
+@article{zhang2025unitsunifiedtimeseries,
+      title={UniTS: Unified Time Series Generative Model for Remote Sensing}, 
+      author={Yuxiang Zhang and Shunlin Liang and Wenyuan Li and Han Ma and Jianglei Xu and Yichuan Ma and Jiangwei Xie and Wei Li and Mengmeng Zhang and Ran Tao and Xiang-Gen Xia},
+      year={2025},
+      eprint={2512.04461},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2512.04461}, 
 }
-
-
 ```
-
-## 👍 Acknowledgement
-
