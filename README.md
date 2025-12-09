@@ -10,8 +10,7 @@ UniTS: Unified Time Series Generative Model for Remote Sensing</a></h1>
 
 <!-- # ⚡️UniTS⚡️ -->
 
-[[Paper 📰]](http://arxiv.org/abs/2512.04461) [[Project Page ✨]](https://yuxiangzhang-bit.github.io/UniTS-website/) [[Datasets 🤗]](https://huggingface.co/datasets/YuxiangZhang-BIT/UniTS-Datasets-ckpt) [WeChat](https://mp.weixin.qq.com/s/eW5-alaBxTrmT2LocL4afw?scene=1&click_id=6)
-<!-- [[miniFLUX Model 🚀]](https://huggingface.co/rain1011/pyramid-flow-miniflux) [[SD3 Model ⚡️]](https://huggingface.co/rain1011/pyramid-flow-sd3) [[demo 🤗](https://huggingface.co/spaces/Pyramid-Flow/pyramid-flow)] -->
+[[Paper 📰]](http://arxiv.org/abs/2512.04461) [[Project Page ✨]](https://yuxiangzhang-bit.github.io/UniTS-website/) [[Datasets 🤗]](https://huggingface.co/datasets/YuxiangZhang-BIT/UniTS-Datasets-ckpt) [[WeChat tweets]](https://mp.weixin.qq.com/s/eW5-alaBxTrmT2LocL4afw?scene=1&click_id=6)
 
 </div>
 <!-- <h5 align="center">
